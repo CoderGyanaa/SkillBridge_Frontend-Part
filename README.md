@@ -1311,7 +1311,6 @@ We are a passionate team of five undergraduate students from **C.V. Raman Global
 | **Karishma Afrin** | UI/UX Designer | Design Systems, User Research | karishmaafrin@gmail.com |
 | **Gyana Ranjan Sahoo** | Full Stack Developer | Database Design, API Development | gyanaranjan0033@gmail.com |
 | **Smrutirekha Sethi** | Data Scientist | Machine Learning, Analytics | is20169smrutirekhasethi@gmail.com |
-| **Anuj Agrawal** | Product Manager | Strategy, User Experience | anujagrawal2089@gmail.com |
 
 ---
 
