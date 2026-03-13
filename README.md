@@ -1309,7 +1309,7 @@ We are a passionate team of five undergraduate students from **C.V. Raman Global
 |-----------------|----------|---------------|-------------|
 | **Debadatta Rout** | Full Stack Developer | React, Node.js, AI Integration | routdebadatta22@gmail.com |
 | **Karishma Afrin** | UI/UX Designer | Design Systems, User Research | karishmaafrin@gmail.com |
-| **Gyana Ranjan Sahoo** | Backend Engineer | Database Design, API Development | gyanaranjan0033@gmail.com |
+| **Gyana Ranjan Sahoo** | Full Stack Developer | Database Design, API Development | gyanaranjan0033@gmail.com |
 | **Smrutirekha Sethi** | Data Scientist | Machine Learning, Analytics | is20169smrutirekhasethi@gmail.com |
 | **Anuj Agrawal** | Product Manager | Strategy, User Experience | anujagrawal2089@gmail.com |
 
